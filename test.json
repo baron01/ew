@@ -622,5 +622,34 @@
         "group": "premium",
         "enabled": true,
         "priority": 22
-    }
+    },
+    {
+      "key": "快活影網",
+      "name": "快活┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+    },
+    {
+      "key": "jap影網",
+      "name": "6av┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      }
+    },
+        {
+            "key": "奈落",
+            "name": "奈落┃蓝光",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+            "filterable": 1,
+        }, 
 ]
